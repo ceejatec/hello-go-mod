@@ -1,6 +1,6 @@
 package hello
 
 func Hello() string {
-    return "Hello 1.0"
+    return "Hello 1.1"
 }
 
